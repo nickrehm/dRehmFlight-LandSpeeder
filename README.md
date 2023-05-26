@@ -10,6 +10,8 @@ THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE FLYING RC 
 
 CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
+FULL INSTRUCTIONS AND PARTS LIST FOR THIS PROJECT HERE: https://hackaday.io/project/191240-flying-rc-drift-car
+
 ## Overview
 
 dRehmFlight is the flight controller for hobbyists, hackers, and non-coders interested in stabilizing their wacky and unique flying creations. The code and supporting documentation is built to bring someone up to speed on VTOL flight stabilization concepts as quickly and painlessly as possible. The code is written and presented in a way that is intuitive, easy to follow, and most importantly: all in one place. No more digging through countless folders and confusing classes just to add an 'if' statement for your custom drone application. This flight controller uses an Arduino-compatible microcontroller, so there is no confusing flashing or compiling process necessary. If you can use Arduino, you can start expanding the capabilites of this flight controller to your liking.
