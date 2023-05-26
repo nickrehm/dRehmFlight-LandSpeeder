@@ -207,7 +207,7 @@ float Kd_yaw = 0.00011;       //Yaw D-gain (be careful when increasing too high,
 
 // Land Speeder specific parameters
 float pitch_trim = 0.0; // tune this to get steady, hands off hover if there is any drift, deg
-float roll_trim = -1.0; // tune this to get steady, hands off hover if there is any drift, deg
+float roll_trim = 0.0; // tune this to get steady, hands off hover if there is any drift, deg
 float alt_stpt = 90.0; // change this to your desired hover height, cm
 float maxPitchBraking = 20.0; // this is the max pitch-back angle for braking, deg
 
