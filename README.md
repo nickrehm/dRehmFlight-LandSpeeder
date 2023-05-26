@@ -4,7 +4,7 @@
 
 [RcGroups Support Thread](https://www.rcgroups.com/forums/showthread.php?3706571-dRehmFlight-VTOL-Teensy-Flight-Controller-and-Stabilization)
 
-![F-35](https://github.com/nickrehm/dRehmFlight-F-35/blob/main/F-35.jpg)
+![speeder](https://github.com/nickrehm/dRehmFlight-LandSpeeder/blob/main/LandSpeeder.png)
 
 THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE FLYING RC DRIFT CAR: [Watch the Video Here](https://www.youtube.com/watch?v=dcu0jODIlWU)
 
