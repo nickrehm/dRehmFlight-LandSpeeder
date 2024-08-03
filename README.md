@@ -10,7 +10,7 @@ THIS IS NOT A CLEAN VERSION OF DREHMFLIGHT VTOL. UPDATES MADE FOR THE FLYING RC 
 
 CLEAN VERSION AVAILABLE HERE: https://github.com/nickrehm/dRehmFlight
 
-FULL INSTRUCTIONS AND PARTS LIST FOR THIS PROJECT HERE: https://hackaday.io/project/191240-flying-rc-drift-car
+FULL INSTRUCTIONS AND PARTS LIST FOR THIS PROJECT HERE: [https://hackaday.io/project/191240-flying-rc-drift-car](https://www.drehmflight.com/post/flying-rc-drift-car)
 
 ## Overview
 
